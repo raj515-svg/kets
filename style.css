@@ -1,3 +1,6 @@
+html{
+    scroll-behavior: smooth;
+}
 #head {
     padding-top: 17rem;
     padding-bottom: calc(10rem - 72px);
