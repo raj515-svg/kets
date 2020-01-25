@@ -8,6 +8,12 @@
     background-size: cover;
     color:white;
 }
+.img-responsive {
+    height: auto;
+    width: auto;
+    max-height: 35px;
+    max-width: 250px;
+}
 h1, h2, h3, h4, h5, h6 {
     margin-top: 0;
     margin-bottom: 0.5rem;
