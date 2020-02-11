@@ -1,6 +1,11 @@
 html {
     scroll-behavior: smooth;
 }
+.img-fluid {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+}
 #head {
     padding-top: 17rem;
     padding-bottom: calc(10rem - 72px);
